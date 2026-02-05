@@ -48,7 +48,11 @@ Overall Improvements:
 - Write unit tests
 
 Evaluation Summary
+
 Clarity of thought: Clear and simple approach from requirements to implementation
+
 Backend & frontend integration: Clean REST API connected to React frontend
+
 Code readability: Modular, readable, and easy-to-follow code
+
 Problem-solving approach: Conscious trade-offs and scalable design thinking
